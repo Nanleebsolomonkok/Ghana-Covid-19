@@ -7,7 +7,7 @@ African countries using real
 world data from Our World In Data.
 
 ## 🔗 Live Dashboard
-[Click here to view live app](your streamlit link)
+[Click here to view live app](https://ghana-covid-19-dashboard-solomon-kok-nanleeb.streamlit.app/)
 
 ## 📊 Key Findings
 
