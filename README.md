@@ -61,7 +61,7 @@ world data from Our World In Data.
    - pandemic essentially over
    
 6. Only 0.51% of population
-   got COVID — excellent
+   got COVID - excellent
    management!
 
 ## 💻 Technologies Used
@@ -78,5 +78,3 @@ world data from Our World In Data.
 pip install streamlit pandas numpy
 streamlit run app.py
 ```
-
-## 📁 Project Structure
