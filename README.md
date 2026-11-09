@@ -55,10 +55,10 @@ world data from Our World In Data.
    Ghana's worst single day
    
 4. Vaccines reduced deaths by
-   86.4% — from 1,287 to 175
+   86.4% - from 1,287 to 175
    
 5. Zero COVID deaths in 2024
-   — pandemic essentially over
+   - pandemic essentially over
    
 6. Only 0.51% of population
    got COVID — excellent
